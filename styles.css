@@ -1,0 +1,28 @@
+
+  body {
+    background-color: #93B5C6;
+
+  }
+  hr  {
+    border-color: #1C6DD0;
+    border-style: dotted none none;
+    height: 0;
+    width: 90%;
+    border-width: 10px;
+  }
+  h1 {
+    color: #357C3C;
+    font-family: 'Rubik Moonrocks', cursive;
+  }
+  h3{
+    color:#357C3C;
+    font-family: 'Faster One', cursive;
+  }
+  p{
+    font-family: 'Indie Flower', cursive;
+  }
+
+
+  <!--font-family: 'Faster One', cursive;
+  font-family: 'Indie Flower', cursive;
+  font-family: 'Rubik Moonrocks', cursive;//-->
